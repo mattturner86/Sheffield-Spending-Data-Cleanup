@@ -1,0 +1,15 @@
+sed 's/ *, */,/g' _250_Spend_Data_-_January_2011_-_June_2015.csv >> removespaces/01.csv
+sed 's/ *, */,/g' December_2015_-_Monthly_Payments_To_Suppliers_Over__250_In_Value.csv >> removespaces/01.csv
+sed 's/ *, */,/g' February_2016_-_Monthly_Payments_To_Suppliers_Over__250_In_Value.csv >> removespaces/01.csv
+sed 's/ *, */,/g' January_2016_-_Monthly_Payments_To_Suppliers_Over__250_In_Value.csv >> removespaces/01.csv
+sed 's/ *, */,/g' January_2017_-_Monthly_Payments_To_Suppliers_Over__250_In_Value.csv >> removespaces/01.csv
+sed 's/ *, */,/g' June_2016_Monthly_Payements_To_Suppliers_Over__250_In_Value.csv >> removespaces/01.csv
+sed 's/ *, */,/g' June_2017_Monthly_Payments_To_Suppliers_Over__250_In_Value.csv >> removespaces/01.csv
+sed 's/ *, */,/g' March_2016_-_Monthly_Payments_To_Suppliers_Over__250_In_Value.csv >> removespaces/01.csv
+sed 's/ *, */,/g' March_2017_-_Monthly_Payments_To_Suppliers_Over__250_In_Value.csv >> removespaces/01.csv
+sed 's/ *, */,/g' May_2016_-_Monthly_Payments_To_Suppliers_Over__250_In_Value.csv >> removespaces/01.csv
+sed 's/ *, */,/g' November_2016_Monthly_Payments_To_Suppliers_Over__250.csv >> removespaces/01.csv
+sed 's/ *, */,/g' October_2015_Monthly_Payments_To_Suppliers.csv >> removespaces/01.csv
+sed 's/ *, */,/g' September_2016_-_Monthly_Payments_To_Suppliers_Over__250_In_Value.csv >> removespaces/01.csv
+sed 's/ *, */,/g' Spend_Data_-_July_2015_To_August_2015.csv >> removespaces/01.csv
+sed 's/ *, */,/g' Spend_Data_-_September_2015.csv >> removespaces/01.csv
