@@ -22,3 +22,4 @@ sed 's/ *, */,/g' October_2016_-_Monthly_Payments_To_Suppliers_Over__250_In_Valu
 sed 's/ *, */,/g' December_2016_Monthly_Payments_To_Suppliers_Over__250.csv >> removespaces/01.csv
 sed 's/ *, */,/g' February_2017_-_Monthly_Payments_To_Suppliers_Over__250_In_Value.csv >> removespaces/01.csv
 sed 's/ *, */,/g' April_2017_Monthly_Payments_To_Suppliers_Over__250_In_Value_v2.csv >> removespaces/01.csv
+sed 's/ *, */,/g' May_2017_-_Monthly_Payments_To_Suppliers_Over__250_In_Value_2.csv >> removespaces/01.csv
