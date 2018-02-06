@@ -1,3 +1,10 @@
+# Repository specific local folders
+screenshots/
+processed/*.csv
+processed/*.xlsx
+processed/removespaces
+originals/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
