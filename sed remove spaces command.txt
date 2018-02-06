@@ -15,3 +15,4 @@ sed 's/ *, */,/g' October_2015_Monthly_Payments_To_Suppliers.csv >> removespaces
 sed 's/ *, */,/g' September_2016_-_Monthly_Payments_To_Suppliers_Over__250_In_Value.csv >> removespaces/01.csv
 sed 's/ *, */,/g' Spend_Data_-_July_2015_To_August_2015.csv >> removespaces/01.csv
 sed 's/ *, */,/g' Spend_Data_-_September_2015.csv >> removespaces/01.csv
+sed 's/ *, */,/g' April_2016_-_Monthly_Payments_To_Suppliers_Over__250_In_Value.csv >> removespaces/01.csv
